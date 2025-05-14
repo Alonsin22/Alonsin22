@@ -1,5 +1,5 @@
 # AlonsoMolina
-# 💫 About Me:
+# About Me:
 Actualmente soy estudiante de Ingeniería en Desarrollo de Software. Me apasiona aplicar la tecnología como herramienta para resolver problemas reales que identifico en mi entorno cotidiano. Busco constantemente oportunidades para poner en práctica mis conocimientos, desarrollando soluciones innovadoras que generen un impacto positivo en la sociedad. Mi objetivo es especializarme en ingenieria en bases de datos y contribuir a proyectos que mejoren la calidad de vida de las personas. Actualmente estoy desarrollando un dispositivo IoT con la capacidad de detectar ataques de ansiedad en los afectados por los mismos.
 
 
